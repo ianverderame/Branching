@@ -1,5 +1,7 @@
 ## Git Cheat Sheet
 
+Personal reference for Git commands.
+
 ### Basic Cmmands
 * `git init` - Initialize local Git repository
 * `git add .` - Add all files in and under current directory to git index, staging them for commit
@@ -10,7 +12,7 @@
 * `git log` - list commit history
 * `git log --oneline` - list commit history, compact format
 
-## Branching Commands
+### Branching Commands
 * `git branch` - List local git branches
 * `git branch newBranchName` - Create local branch "newBranchName"
 * `git checkout newBranchName` - Check out local branch "newBranchName"
