@@ -12,6 +12,7 @@ Summary of Git commands.
 * `git status` - display current status of local working directory/repository
 * `git log` - list commit history
 * `git log --oneline` - list commit history, compact format
+* `git config -l` - List local Git configuration settings.
 
 ### Branching Commands
 * `git branch` - List local git branches
